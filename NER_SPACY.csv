@@ -1,0 +1,55 @@
+,DATE,EVENT,GPE,LOC,MONEY,ORG,PERSON,TIME
+0,['2019'],['The Year Gone By'],-,-,-,-,-,-
+1,['the year'],-,-,-,-,-,-,-
+2,-,-,-,-,-,-,['Corda Platform'],-
+3,-,-,['Corda'],-,-,"['Banking and Financial Services', 'Insurance and Travel', 'Transportation', ""NIIT Technologies'""]",-,-
+4,-,-,-,-,-,['Airlines'],['Blockchain'],-
+5,-,-,['Airline'],-,-,-,['Blockchain'],-
+6,-,-,-,-,-,['WHISHWORKS'],-,-
+7,-,-,-,-,-,"['WHISHWORKS', 'Big Data', 'Digital', 'Digital Integration']",-,-
+8,-,-,-,-,-,['Tokio Marine'],['Pega'],-
+9,-,-,-,-,-,"['NIIT Incessant Pvt. Ltd', 'Incessant Technologies Pvt. Ltd']","['Tokio Marine', 'Pega']",-
+10,"['the most successful year', 'the year']",-,-,-,-,['NIIT Technologies'],-,-
+11,-,-,-,-,-,-,-,-
+12,['This year'],-,-,-,-,['NIIT Limited'],-,-
+13,-,-,-,-,-,-,-,-
+14,-,-,-,-,-,"['Intersect', 'Banking and Financial Services', 'Insurance and Travel']",-,-
+15,-,-,-,-,-,['Digital'],-,-
+16,-,-,-,-,-,['NIIT Technologies'],-,-
+17,-,-,-,-,-,"[""NIIT Technologies'"", 'AdvantageGo']",-,-
+18,-,-,-,-,-,['AdvantageGo'],"['Aniita', 'Exact Max']",-
+19,['year'],-,-,-,-,['NIIT Technologies'],-,-
+20,-,-,-,-,-,"['Microsoft', 'Company', 'Microsoft Azure']","['Cloud', 'Desk Audit', 'Desk Audit']",-
+21,-,-,-,-,-,"['Blue Chip Customer Engineering Ltd', ""NIIT Technologies'"", ""Blue Chip's"", 'IBM', 'IBM']",-,-
+22,['15 years'],-,-,-,-,-,-,-
+23,['15 years'],-,-,-,-,['NIIT Technologies'],-,-
+24,-,-,-,-,-,['NIIT Technologies with Clients'],['Sudhir Singh'],-
+25,['2019'],-,-,-,-,"['Incessant Technologies', 'RuleTek']",-,-
+26,-,-,['Ruletek'],-,-,"['EVP & Global Head', 'Incessant Technologies', 'NIIT Technologies', 'Pegasystems Inc.']",['Sreekanth Lapala'],-
+27,-,-,-,-,-,['NIIT Technologies'],-,-
+28,['20 years'],-,['Vamsi'],-,-,-,['Vamsi Krishna Rupakula'],-
+29,-,-,-,-,-,-,-,-
+30,-,-,-,-,-,"['IMS & Cloud', 'Information Security', 'CISO', 'EU']",-,-
+31,-,-,-,-,-,"['EVP & Global Head', 'Incessant Technologies Pvt. Ltd.']",['Sreekanth Lapala'],-
+32,-,-,-,-,-,-,-,-
+33,-,-,-,-,['1B+'],"['Virtusa, Sreekanth', 'Incessant', 'P&L']",-,-
+34,"['20 years', 'two decades']",-,-,-,-,['the NIIT Group'],['Sanjay Mal'],-
+35,-,-,-,-,-,-,['Sanjay'],-
+36,-,-,-,-,-,-,-,-
+37,-,-,-,-,-,-,-,-
+38,-,-,-,-,-,['Boards'],-,-
+39,-,-,-,-,-,['the NIIT Group'],-,-
+40,-,-,-,-,-,-,['Sanjay'],-
+41,-,-,-,-,-,-,-,-
+42,-,-,-,-,-,['Rewards & Recognitions'],-,-
+43,['2018'],['Everest Group'],-,-,-,"[""Star Performer'"", 'Insurance Application Services']",-,-
+44,['2018'],-,-,-,-,"['NIIT Technologies', 'the Cloud Advisory Assessment & Migration Evaluation', 'NelsonHall']",-,-
+45,['2018'],-,-,-,-,"['Incessant Technologies', 'Independent Research Firm', 'Forrester for Digital Process Automation']",-,-
+46,['2019'],-,-,-,-,['the NelsonHall NEAT Report for RPA & AI'],-,-
+47,['2018'],-,-,-,-,"['Digital Services', 'the Travel & Hospitality Industry']",['Zinnov'],-
+48,-,-,-,-,-,['the Mid-Sized Agile Software Development by Independent'],-,-
+49,"['the second consecutive year', '2019']",-,['UK'],-,['1'],-,-,-
+50,-,-,-,-,-,"['Whitelane Research', 'PA Consulting Group']",-,-
+51,-,-,-,-,-,['Won Times Ascent'],-,-
+52,-,-,-,-,-,"['NIIT Technologies', 'Human Capital Summit']",-,-
+53,-,-,['UK'],-,-,-,['Grant Thornton'],-
