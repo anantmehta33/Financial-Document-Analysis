@@ -1,0 +1,55 @@
+O,B-MISC,I-MISC,B-PER,I-PER,B-ORG,I-ORG,B-LOC,I-LOC
+-,-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-,-
+-,['R'],['##rda'],-,-,['Co'],['Platform'],-,-
+-,-,['##rda'],-,-,"['R', 'Banking', 'Insurance', 'R', 'Co', 'N']","['and', 'Financial', 'Services', 'and', 'Travel', 'and', 'Transportation', '##3', '##II', '##T', 'Technologies']",-,-
+-,['Block'],"['##cha', '##in']",-,-,['Airlines'],-,-,-
+-,"['Chain', 'Block']","['m', '##cha', '##in']",-,-,['Air'],['##line'],-,-
+-,-,"['##IS', '##H', '##OR']",-,-,-,-,-,-
+-,"['Digital', 'Digital']",-,-,-,"['W', '##H', 'Mu', 'Big']","['##IS', '##H', '##W', '##OR', '##KS', '##le', '##S', '##oft', 'Data', 'Integration']",-,-
+-,['P'],-,-,-,"['To', '##ki']","['##o', 'Marine', 'HC', '##C']",-,-
+-,['P'],['##a'],-,-,"['To', 'N', 'Inc']","['##ki', '##o', 'Marine', 'HC', '##C', '##II', '##T', 'Inc', '##ess', '##ant', 'P', '##v', '##t', '.', 'Ltd', '##ess', '##ant', 'Technologies', 'P', '##v', '##t', '.', 'Ltd']",-,-
+-,-,-,-,-,['N'],"['##II', '##T', 'Technologies']",-,-
+-,['Inter'],['##sect'],-,-,-,-,-,-
+-,-,-,-,-,"['N', 'Technologies', 'Bari']","['##II', '##T', 'Limited', 'Ltd', '##ng', 'Private', 'Equity', 'Asia']",-,-
+-,['Inter'],['##sect'],-,-,-,-,-,-
+-,['Inter'],['##sect'],-,-,['Banking'],"['and', 'Financial', 'Services']",-,-
+-,['Cloud'],-,-,-,-,"['Auto', '##mation', 'and', 'Data']",-,-
+-,-,-,-,-,['N'],"['##II', '##T', 'Technologies']",-,-
+-,-,-,-,-,"['N', 'Ad']","['##II', '##T', 'Technologies', '##vant', '##age', '##G', '##o']",-,-
+-,"['An', 'Ex']","['##ta', '##act', 'Max']",-,-,['Ad'],"['##vant', '##age', '##G', '##o']",-,-
+-,-,-,-,-,['N'],"['##II', '##T', 'Technologies']",-,-
+-,"['Cloud', 'Co', 'Cloud']","['##gni', '##tive', 'Service', 'Des', '##k', 'Audi', '##t', 'Based', 'Sol', '##ution', 'Audi', '##t', '##zure']",-,-,"['Microsoft', 'Co', 'Microsoft']","['##gni', '##tive', 'Service', 'Des', '##k', 'A']",-,-
+-,-,['Power'],-,-,"['Blue', 'N', 'Blue', 'IBM', 'IBM']","['Chip', 'Custom', '##er', 'Engineering', 'Ltd', '##II', '##T', 'Technologies', 'Chip', 'P', '##OW', '##ER']",-,-
+-,-,-,-,-,-,-,-,-
+-,-,-,-,-,['N'],"['##II', '##T', 'Technologies']",-,-
+-,-,-,"['Su', '##dhi']","['##r', 'Singh']",['N'],"['##II', '##T', 'Technologies']",-,-
+-,-,-,-,-,"['Inc', '##ess', 'Rule', 'P', '##eg']","['##ant', 'Technologies', '##T', '##ek', '##a', 'Partner']",-,-
+-,-,-,"['Sr', '##eek']","['##ant', '##h', 'La', '##pal', '##a']","['E', 'N', 'Inc', 'Rule', 'N', 'P', '##eg']","['##VP', '##II', '##T', 'Inc', '##ess', '##ant', 'P', '##v', '##t', '.', 'Ltd', '##ess', '##ant', 'Technologies', '##te', '##k', '##II', '##T', 'Technologies', 'Del', '##as', '##ys', '##tem', '##s', 'Inc']",-,-
+-,-,-,-,-,['N'],"['##II', '##T', 'Technologies']",-,-
+-,-,-,"['V', '##ams', '##i', 'V', '##ams']","['Krishna', 'R', '##up', '##ak', '##ula']","['E', 'Infrastructure']","['##VP', 'Global', 'Management', 'Services', '##i']",-,-
+-,-,-,-,-,-,-,-,-
+-,['EU'],['Security'],-,-,"['I', 'Information', 'C']","['##MS', '&', 'Cloud', '##IS', '##O']",-,-
+-,-,-,"['Sr', '##eek']","['##ant', '##h', 'La', '##pal', '##a']","['E', 'N', 'Inc']","['##VP', '##II', '##T', 'Inc', '##ess', '##ant', 'P', '##v', '##t', '.', 'Ltd', '##ess', '##ant', 'Technologies', 'P', '##v', '##t', '.', 'Ltd']",-,-
+-,-,-,-,-,-,-,-,-
+-,-,-,['Sr'],"['##eek', '##ant', '##h']","['V', 'Inc', 'P']","['##irt', '##usa', 'Del', '##iver', '##y', 'and', '##ess', '##ant', '&', 'L']",-,-
+-,-,-,"['San', 'San', '##jay']","['##jay', 'Mal']","['N', 'Group']","['##II', '##T', 'Group', 'Strategic', 'Finance']",-,-
+-,-,-,['San'],['##jay'],-,-,-,-
+-,-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-,-
+-,-,-,-,-,['N'],"['##II', '##T', 'Group']",-,-
+-,-,-,"['San', '##jay']",-,-,-,-,-
+-,-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-,-
+-,-,"['Per', 'Matrix']",-,-,"['Everest', 'Insurance']","['Group', 'Application', 'Services']",-,-
+-,['Cloud'],"['Advisory', 'Assessment', 'Mi', 'Evaluation']",['Nelson'],"['##H', '##all']",['N'],"['##II', '##T', 'Technologies']",-,-
+-,-,-,-,-,"['Inc', '##ess', 'Independent', 'Forrest', 'Digital']","['##ant', 'Technologies', 'Research', 'Fi', '##rm', 'Process', 'Auto', '##mation']",-,-
+-,['Nelson'],"['##H', '##all', 'NE', '##AT', 'Report']",-,-,['R'],"['##PA', '&', 'AI']",-,-
+-,-,-,"['Z', '##inn', '##ov']",-,"['Travel', 'Independent']","['Services', '&', 'Hospital', '##ity', 'Industry', 'Ana', '##ly', '##st', 'Fi', '##rm']",-,-
+-,['Mid'],"['Si', '##zed', 'A', '##gi', '##le', 'Software', 'Development']",-,-,['Independent'],-,-,-
+-,"['Business', 'UK']","['Understanding', 'IT', 'So', '##ur']",-,-,-,['##cing'],-,-
+-,-,-,-,-,"['White', 'PA']","['##lane', 'Research', 'Consul', '##ting', 'Group']",-,-
+-,['Best'],"['Change', 'Management', 'Strategy']",-,-,['Times'],"['As', '##cent']",-,-
+-,['Human'],['Summit'],-,-,['N'],"['##II', '##T', 'Technologies', 'Capital']",-,-
+-,"['Indian', 'Study']",-,['Grant'],-,-,['Thornton'],['UK'],-
