@@ -1,0 +1,55 @@
+,ORGANIZATION,PERSON,LOCATION,DATE,TIME,MONEY,GPE
+0,"['Year', 'FY']",-,-,-,-,-,-
+1,-,-,-,-,-,-,-
+2,-,"['R3', 'Corda']",-,-,-,-,-
+3,"['Financial', 'Transportation', 'NIIT']","['Travel', 'Corda']",-,-,-,-,['Insurance']
+4,['Airlines'],-,-,-,-,-,['Blockchain']
+5,-,['Airline'],-,-,-,-,['Blockchain']
+6,['WHISHWORKS'],-,-,-,-,-,-
+7,"['WHISHWORKS', 'MuleSoft', 'Digital', 'Digital']",-,-,-,-,-,-
+8,-,"['Tokio', 'Pega']",-,-,-,-,['Delivered']
+9,"['NIIT', 'Incessant']","['Tokio', 'Marine', 'Pega']",-,-,-,-,"['Ltd', 'Ltd']"
+10,"['NIIT', 'FY19']",-,-,-,-,-,-
+11,['Intersect'],-,-,-,-,-,-
+12,['NIIT'],['Baring'],-,-,-,-,-
+13,['Intersect'],-,-,-,-,-,['Transform']
+14,"['Intersect', 'Financial']",-,-,-,-,-,"['Banking', 'Insurance', 'Travel']"
+15,"['Digital', 'Data']",['Cognitive'],-,-,-,-,"['Cloud', 'Automation']"
+16,['NIIT'],-,-,-,-,-,-
+17,"['NIIT', 'AdvantageGo']",-,-,-,-,-,-
+18,['AdvantageGo'],['Exact'],-,-,-,-,-
+19,['NIIT'],-,-,-,-,-,-
+20,"['Company', 'Microsoft']","['Microsoft', 'Cloud', 'Cognitive']",-,-,-,-,['Collaboration']
+21,"['NIIT', 'IBM', 'IBM']","['Blue', 'Blue']",-,-,-,-,['Strategic']
+22,-,-,-,-,-,-,-
+23,['NIIT'],-,-,-,-,-,-
+24,"['CEO', 'NIIT']","['Sudhir', 'Clients']",-,-,-,-,['Singh']
+25,"['Incessant', 'RuleTek']",['Delivery'],-,-,-,-,['Growth']
+26,"['Lapala', 'EVP', 'NIIT', 'Incessant', 'NIIT', 'Delivery', 'Pegasystems']","['Sreekanth', 'Global', 'Ruletek', 'Partner']",-,-,-,-,['Growth']
+27,['NIIT'],-,-,-,-,-,-
+28,['EVP'],"['Vamsi', 'Krishna', 'Global', 'Infrastructure', 'Vamsi']",-,-,-,-,-
+29,-,-,-,-,-,-,-
+30,"['IMS', 'CISO']",-,-,-,-,-,"['Cloud', 'EU']"
+31,"['EVP', 'NIIT', 'Incessant']","['Sreekanth', 'Lapala', 'Global']",-,-,-,-,['Ltd']
+32,-,-,-,-,-,-,-
+33,"['Global', 'Operations']","['Virtusa', 'Sreekanth', 'Incessant']",-,-,-,-,-
+34,"['NIIT', 'Executive']","['Sanjay', 'Mal', 'Sanjay', 'Strategic']",-,-,-,-,-
+35,-,['Sanjay'],-,-,-,-,-
+36,-,-,-,-,-,-,['Post']
+37,-,-,-,-,-,-,-
+38,-,-,-,-,-,-,['Finance']
+39,"['Committee', 'NIIT']",-,-,-,-,-,-
+40,-,['Sanjay'],-,-,-,-,-
+41,-,-,-,-,-,-,-
+42,-,-,-,-,-,-,['Rewards']
+43,['Contenders'],['Performer'],-,-,-,-,-
+44,"['NIIT', 'Cloud', 'NelsonHall']",['Migration'],-,-,-,-,-
+45,"['Incessant', 'Independent', 'Digital']",-,-,-,-,-,['Strong']
+46,"['NelsonHall', 'RPA']",-,-,-,-,-,-
+47,"['Digital', 'Travel', 'Hospitality', 'Independent']",['Zinnov'],-,-,-,-,-
+48,-,-,-,-,-,-,['Independent']
+49,-,-,-,-,-,-,-
+50,"['Whitelane', 'PA']",-,-,-,-,-,['Study']
+51,-,"['Won', 'Times']",-,-,-,-,-
+52,"['NIIT', 'Human']",-,-,-,-,-,-
+53,-,['Grant'],-,-,-,-,['Indian']
