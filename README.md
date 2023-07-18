@@ -29,3 +29,6 @@ of decision making is catalysed. <br>
 All the sentences collectively are termed as ’context’. A context needs to be
 fed in the pipeline along with the question. Reply is prompted by the model in a
 json format, along with the first and last pointer location and confidence score
+
+# Short Technical Report: <br>
+[Financial_Report_Analysis_using_NLP.pdf](https://github.com/anantmehta33/Financial-Document-Analysis/files/12077601/Financial_Report_Analysis_using_NLP.pdf)
